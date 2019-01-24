@@ -1,0 +1,15 @@
+{
+  "name": "roomba_limbo_study",
+  "version": "1.0.0",
+  "description": "Seeing how Limbo works",
+  "main": "index.js",
+  "repository": "https://github.com/nuk/roomba_limbo_study",
+  "author": "bxdojo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
