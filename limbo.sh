@@ -1,6 +1,6 @@
 while(true);
 do
-(git pull --commit);
+(git pull);
 (git push);
 sleep 1
 done;
